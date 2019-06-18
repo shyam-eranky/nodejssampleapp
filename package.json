@@ -1,0 +1,22 @@
+{
+  "name": "nodejssampleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambichetan/nodejssampleapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambichetan/nodejssampleapp/issues"
+  },
+  "homepage": "https://github.com/ambichetan/nodejssampleapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
